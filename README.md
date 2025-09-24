@@ -96,3 +96,23 @@ The shell scripts run all three models on the `pet_images` dataset. Based on the
 | **VGG** | **87.5%**     | **93.3%**       | **100.0%**        |
 
 The **VGG** architecture demonstrates the highest performance in overall label matching and correct breed identification for the provided `pet_images` dataset.
+
+## Exampple Output
+
+<img width="1266" height="729" alt="Op" src="https://github.com/user-attachments/assets/40813176-df2e-44fd-9080-00a47c319367" />
+
+```sh
+Number of Images: 40
+Number of Dog Images: 30
+Number of Non-Dog Images: 10
+Number of Matches: 36
+Correctly Classified Dogs: 28
+Correctly Classified Breeds: 25
+Percentage Match: 90.0%
+Percentage Correct Dogs: 93.3%
+Percentage Correct Breeds: 83.3%
+Percentage Correct Non-Dogs: 80.0%
+```
+
+**Keep learning!!**🚀✨
+
