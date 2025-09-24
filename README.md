@@ -97,7 +97,7 @@ The shell scripts run all three models on the `pet_images` dataset. Based on the
 
 The **VGG** architecture demonstrates the highest performance in overall label matching and correct breed identification for the provided `pet_images` dataset.
 
-## Exampple Output
+## Example Output
 
 <img width="1266" height="729" alt="Op" src="https://github.com/user-attachments/assets/40813176-df2e-44fd-9080-00a47c319367" />
 
